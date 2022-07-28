@@ -1,0 +1,10 @@
+@media (max-width: 576px) and (min-width:280px) {
+    .padre__produc{
+        flex-direction: column;     
+        flex-direction: column;
+        display: grid;
+        grid-template-columns: 2fr;
+        grid-template-rows:1fr  ;
+           
+        }
+    }
